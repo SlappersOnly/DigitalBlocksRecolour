@@ -1,0 +1,7 @@
+{
+  "__inherits": "mods/DigitalBlocksRecolour/DigitalBase.config",
+  "code": "mod.DigitalBlocksRecolour.TargetYellow",
+  "emissiveColor": "FFfbf0aa",
+  "light": 4.0,
+  "voxels": "mods/DigitalBlocksRecolour/models/TargetYellow.qb"
+}

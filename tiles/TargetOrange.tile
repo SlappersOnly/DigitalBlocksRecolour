@@ -1,0 +1,7 @@
+{
+  "__inherits": "mods/DigitalBlocksRecolour/DigitalBase.config",
+  "code": "mod.DigitalBlocksRecolour.DigitalBlocksRecolour.TargetOrange",
+  "emissiveColor": "Ffffcdad",
+  "light": 4.0,
+  "voxels": "mods/DigitalBlocksRecolour/models/TargetOrange.qb"
+}

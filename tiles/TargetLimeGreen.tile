@@ -1,0 +1,7 @@
+{
+  "__inherits": "mods/DigitalBlocksRecolour/DigitalBase.config",
+  "code": "mod.DigitalBlocksRecolour.TargetLimeGreen",
+  "emissiveColor": "FF7fe57f",
+  "light": 4.0,
+  "voxels": "mods/DigitalBlocksRecolour/models/TargetLimeGreen.qb"
+}

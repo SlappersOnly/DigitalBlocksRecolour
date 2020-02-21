@@ -1,0 +1,33 @@
+language.code=en-GB
+language=English
+
+
+mod.DigitalBlocksRecolour.DigitalPathwayAqua.name=Digital Pathway Aqua
+mod.DigitalBlocksRecolour.DigitalPathwayBlue.name=Digital Pathway Blue
+mod.DigitalBlocksRecolour.DigitalPathwayGreen.name=Digital Pathway Green
+mod.DigitalBlocksRecolour.DigitalPathwayPink.name=Digital Pathway Pink
+mod.DigitalBlocksRecolour.DigitalPathwayPurple.name=Digital Pathway Purple
+mod.DigitalBlocksRecolour.DigitalPathwayRed.name=Digital Pathway Red
+mod.DigitalBlocksRecolour.DigitalPathwayYellow.name=Digital Pathway Yellow
+
+mod.DigitalBlocksRecolour.DigitalAqua.name=Digital Aqua
+mod.DigitalBlocksRecolour.DigitalBlue.name=Digital Blue
+mod.DigitalBlocksRecolour.DigitalGreen.name=Digital Green
+mod.DigitalBlocksRecolour.DigitalPink.name=Digital Pink
+mod.DigitalBlocksRecolour.DigitalPurple.name=Digital Purple
+mod.DigitalBlocksRecolour.DigitalRed.name=Digital Red
+mod.DigitalBlocksRecolour.DigitalYellow.name=Digital Yellow
+
+mod.DigitalBlocksRecolour.TargetAqua.name=Digital Target Aqua
+mod.DigitalBlocksRecolour.TargetDarkBlue.name=Digital Target Dark Blue
+mod.DigitalBlocksRecolour.TargetDarkGreen.name=Digital Target Dark Green
+mod.DigitalBlocksRecolour.TargetLightBlue.name=Digital Target Light Blue
+mod.DigitalBlocksRecolour.TargetLightGreen.name=Digital Target Light Green
+mod.DigitalBlocksRecolour.TargetLightOrange.name=Digital Target Light Orange
+mod.DigitalBlocksRecolour.TargetLightPink.name=Digital Target Light Pink
+mod.DigitalBlocksRecolour.TargetLimeGreen.name=Digital Target Lime Green
+mod.DigitalBlocksRecolour.TargetOrange.name=Digital Target Orange
+mod.DigitalBlocksRecolour.TargetPink.name=Digital  Pink
+mod.DigitalBlocksRecolour.TargetPurple.name=Digital Target Purple
+mod.DigitalBlocksRecolour.TargetRed.name=Digital Target Red
+mod.DigitalBlocksRecolour.TargetYellow.name=Digital Target Yellow

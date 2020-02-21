@@ -1,0 +1,7 @@
+{
+  "__inherits": "mods/DigitalBlocksRecolour/DigitalBase.config",
+  "code": "mod.DigitalBlocksRecolour.TargetDarkGreen",
+  "emissiveColor": "ff7fcc7f",
+  "light": 4.0,
+  "voxels": "mods/DigitalBlocksRecolour/models/TargetDarkGreen.qb"
+}

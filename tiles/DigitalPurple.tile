@@ -1,0 +1,7 @@
+{
+  "__inherits": "mods/DigitalBlocksRecolour/DigitalBase.config",
+  "code": "mod.DigitalBlocksRecolour.DigitalPurple",
+  "emissiveColor": "e246cf",
+  "light": 0.5,
+  "voxels": "mods/DigitalBlocksRecolour/models/DigitalPurple.qb"
+}

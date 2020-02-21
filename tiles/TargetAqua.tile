@@ -1,0 +1,7 @@
+{
+  "__inherits": "mods/DigitalBlocksRecolour/DigitalBase.config",
+  "code": "mod.DigitalBlocksRecolour.TargetAqua",
+  "emissiveColor": "ffaaf8e9",
+  "light": 4.0,
+  "voxels": "mods/DigitalBlocksRecolour/models/TargetAqua.qb"
+}
